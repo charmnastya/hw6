@@ -10,3 +10,6 @@
 1. https://github.com/charmnastya/hw6/blob/master/modifiers.png
 2. https://github.com/charmnastya/hw6/blob/master/saytell.png
 Оба глагола могут употребляться с таким дополнением, как yesterday. Дополнение truth употребляется только с глаголом tell.
+Бонусное задание.
+Слово archaeology
+https://github.com/charmnastya/hw6/blob/master/бонусное.png
