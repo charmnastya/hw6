@@ -17,3 +17,5 @@
 https://github.com/charmnastya/hw6/blob/master/бонусное.png
 
 https://github.com/charmnastya/hw6/blob/master/бонусное2.png
+
+Из полученных мною данных, можно сделать вывод о том, что наблюдается резкий рост частотности слова archaeology. Данные в Ngram Viewer и BNC практически одинаково соотносятся, есть небольшие различия из-за погрешности.
