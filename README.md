@@ -13,3 +13,5 @@
 Бонусное задание.
 Слово archaeology
 https://github.com/charmnastya/hw6/blob/master/бонусное.png
+
+https://github.com/charmnastya/hw6/blob/master/бонусное2.png
